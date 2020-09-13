@@ -1,5 +1,5 @@
 # LFCA
-PyTorch implementation of ECCV 2020 paper: "[Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures](https://arxiv.org/abs/2007.11882)".
+PyTorch implementation of ECCV 2020 paper (Oral): "[Deep Spatial-angular Regularization for Compressive Light Field Reconstruction over Coded Apertures](https://arxiv.org/abs/2007.11882)".
 
 ## Requrements
 - Python 3.7.4
