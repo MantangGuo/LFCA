@@ -10,7 +10,7 @@ PyTorch implementation of ECCV 2020 paper (Oral): "[Deep Spatial-angular Regular
 We provide MATLAB code for preparing the training and test data. Please first download light field datasets, and put them into corresponding folders in LFData.
 
 ## Test
-We provide the pre-trained model for 2 -> 49 task on Lytro dataset. (We calculated the average PSNR and SSIM between the reconstructed LFs and ground-truth ones in Y channel to conduct quantitative comparisons of different methods, which is a misstatement in our paper.) 
+We provide the pre-trained model for 2 -> 49 task on Lytro dataset. (We calculated the average PSNR and SSIM between the reconstructed LFs and ground-truth ones in Y channel to conduct quantitative comparisons of different methods, which is a typo in our paper.) 
 
 To test, run:
 ```
